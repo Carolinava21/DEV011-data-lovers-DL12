@@ -1,6 +1,7 @@
 
 html {
   background-color: #4d9e8a;
+  position: relative;
 }
 header {
   display: flex;
@@ -26,7 +27,7 @@ header {
 }
 
 body {
-  margin: 0%;
+margin: 0%;
 }
 
 ul {
@@ -77,16 +78,6 @@ ul {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
 
-footer {
-  display: flex;
-  color: rgb(183, 204, 223);
-  justify-content: center;
-  margin-top: 1%;
-  padding-block: 10px;
-  background-color: #24363b;
-
-}
-
 select{
   padding-block: 10px;
   display:inline-flex;
@@ -134,3 +125,14 @@ h5 {
   font-weight: 400;
   
    }
+
+   footer {
+    display: flex;
+    color: rgb(183, 204, 223);
+    justify-content: center;
+    padding-block: 10px;
+    background-color: #24363b;
+    margin-top: 1%;
+    
+  
+  }
