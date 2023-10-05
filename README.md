@@ -16,7 +16,7 @@ Tendrán acceso a una lista de 20 peliculas con unas tarjetas que muestran los p
 
 
 ## 2. Diseño de la interfaz de usuaria
-https://files.slack.com/files-pri/T0NNB6T0R-F05S15700PL/20230912_142723.jpg
+![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/de3b6406-7fe7-48d5-810e-47246155a561)
 
 
 ## 3. Testeos de usabilidad
