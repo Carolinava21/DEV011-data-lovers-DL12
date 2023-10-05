@@ -65,7 +65,7 @@ btnFiltrar.addEventListener("change", function () {
   );
   console.log(frecuenciaDirector);
   const elementoP = document.createElement("h5");
-  elementoP.textContent = `⭐ ${directorBuscado} ⭐ directed the ${frecuenciaDirector} % from studio Ghibli `;
+  elementoP.textContent = `⭐ ${directorBuscado} ⭐ directed the ${frecuenciaDirector} % of the films from studio Ghibli `;
   root.insertBefore(elementoP, tarjetas);
 
   console.log(
