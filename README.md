@@ -19,11 +19,12 @@ Tendrán acceso a una lista de 20 películas con unas tarjetas que muestran los 
 La aplicación busca brindar una herramienta que permita expandir la comunidad de interesados en el Studio Ghibli, al mismo tiempo que proporciona información relevante a aquellos que ya son fanáticos de los films.
 En ese sentido, el enfoque específico abordado en el trabajo es:
 
-![Historias de Usuaria Totales](https://github.com/ItzelQuintana/DEV011-data-lovers-DL12/assets/142268037/8d707983-902d-4826-90e0-ab0213301bb0) ![Contenido de historia](https://github.com/ItzelQuintana/DEV011-data-lovers-DL12/assets/142268037/be94596e-8758-4890-835e-2b760f74284c)
+![historias de usuaria](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/29040a1a-d4a1-4ae0-8502-b5300ac5fb05)
+
 
 ## 3. Diseño de baja Fidelidad
-![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/de3b6406-7fe7-48d5-810e-47246155a561)
-![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/606630f7-45cf-4b4e-acd0-6f90a92d9cb2)
+![diseño](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/596a97d8-748f-4d1d-8ba6-7708e2f6dcf1)
+
 
 ## 4. Diseño de alta Fidelidad
 ![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/5d41d0b4-e871-410f-9235-cbcea4f27998)
