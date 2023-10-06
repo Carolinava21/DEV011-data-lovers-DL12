@@ -18,6 +18,7 @@ Tendrán acceso a una lista de 20 películas con unas tarjetas que muestran los 
 ## 2. Historias de Usuaria
 La aplicación busca brindar una herramienta que permita expandir la comunidad de interesados en el Studio Ghibli, al mismo tiempo que proporciona información relevante a aquellos que ya son fanáticos de los films.
 En ese sentido, el enfoque específico abordado en el trabajo es:
+
 ![Historias de Usuaria Totales](https://github.com/ItzelQuintana/DEV011-data-lovers-DL12/assets/142268037/8d707983-902d-4826-90e0-ab0213301bb0) ![Contenido de historia](https://github.com/ItzelQuintana/DEV011-data-lovers-DL12/assets/142268037/be94596e-8758-4890-835e-2b760f74284c)
 
 ## 3. Diseño de baja Fidelidad
