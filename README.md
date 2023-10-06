@@ -13,7 +13,7 @@
 
 ## 1. Definición del Producto
 Ghibli Friends, es una aplicación diseñada para quienes quieran saber un poquito más acerca de las maravillosas producciones realizadas por Studio Ghibli.
-Tendrán acceso a una lista de 20 películas con unas tarjetas que muestran los poster de cada una y sus nombre traducidos al Inglés. Esta aplicación permitirá a sus usuarios filtrar las tarjetas según el director a cargo de cada película, además de  ordenar por año de publicación ,desde la más antigua (1986) a la más actual (2014). Para quiénes tengan curiosidad sobre el trabajo de los directores se visualizará una estadística, representando el porcentajes de trabajo de cada Director dentro del Estudio.
+Tendrán acceso a una lista de 20 películas con unas tarjetas que muestran los poster de cada una y sus nombre traducidos al Inglés. Esta aplicación permitirá a sus usuarios filtrar las tarjetas según el director a cargo de cada película, además de  ordenar por año de publicación ,desde la más antigua (1986) a la más actual (2014). Para quiénes tengan curiosidad sobre el trabajo de los directores se visualizará una estadística, representando el porcentaje de trabajo de cada Director dentro del Estudio.
 
 ## 2. Historias de Usuaria
 La aplicación busca brindar una herramienta que permita expandir la comunidad de interesados en el Studio Ghibli, al mismo tiempo que proporciona información relevante a aquellos que ya son fanáticos de los films.
@@ -31,6 +31,13 @@ En ese sentido, el enfoque específico abordado en el trabajo es:
 
 
 ## 5. Testeos de usabilidad
+La efectividad de las funciones dentro de la aplicación ha sido analizada a través de pruebas unitarias creadas específicamente:
+  a) Describe("funciónOrdenarASC") => it("Ordenar las tarjetas por los años de publicación de manera ascendente")
+  b) Describe("funciónOrdenarDESC") => it("Ordenar las tarjetas por los años de publicación de manera descendente")
+  c) Describe("funciónFiltrar") => it("Filtar las tarjetas por el nombre de los directores")
+  d) Describe("funciónEstadística") => it("Calcular el % de películas realizadas por cada director")
+  e) Describe("funciónEstadísticaFALSE") => it("No Calcula si no encuentra el nombre del director proporcionado)
+  
 ![image](https://github.com/Carolinava21/DEV011-data-lovers-DL12/assets/142191821/f12d560d-3432-4217-9f85-0070412ee5f3)
 
 
